@@ -1,0 +1,15 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn{
+    /* float: right; */
+    min-height: 40px;
+    width: 100px;
+    background-color: #edede9;
+    border: none;
+    cursor: pointer;
+}

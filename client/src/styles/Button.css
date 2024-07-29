@@ -1,0 +1,15 @@
+.button {
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: var(--font-size);
+    cursor: pointer;
+    align-self: center;
+    margin: 15px 0px 15px 0px;
+    width: 80%
+  }
+  
+  .button:hover {
+    background-color: darkblue;
+  }  

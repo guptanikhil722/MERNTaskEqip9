@@ -1,0 +1,18 @@
+/* .App .loginText{
+    color: black;
+    text-align: center !important;
+    font-family: 'Varela Round', sans-serif;
+}
+.column{
+    display: flex;
+    flex-direction: column !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.label{
+  text-align: left;
+} */
+.errTxt{
+    color: red !important
+  }
